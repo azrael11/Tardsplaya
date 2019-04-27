@@ -8,7 +8,7 @@ Written in Delphi XE7
 Clone with GIT
 --------------
 ```
-> git clone git://github.com/Swanty/Tardsplaya Tardsplaya
+> git clone git://github.com/Zero3K/Tardsplaya Tardsplaya
 ```
 
 Requirements
